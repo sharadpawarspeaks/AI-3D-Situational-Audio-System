@@ -1,0 +1,9 @@
+Starting AI 3D Situational Audio System...
+
+Loading AI Sound Detection Model...
+First time may take some time because the model is downloaded.
+
+Loading weights:   0%|          | 0/203 [00:00<?, ?it/s]Loading weights:  20%|██        | 41/203 [00:00<00:00, 408.65it/s]Loading weights:  41%|████▏     | 84/203 [00:00<00:00, 421.13it/s]Loading weights: 100%|██████████| 203/203 [00:00<00:00, 977.81it/s]
+C:\Users\pawar\AppData\Local\Python\pythoncore-3.14-64\Lib\site-packages\transformers\audio_utils.py:829: UserWarning: At least one mel filter has all zero values. The value for `num_mel_filters` (128) may be set too high. Or, the value for `num_frequency_bins` (257) may be set too low.
+  warnings.warn(
+AI Model loaded successfully!
